@@ -1,7 +1,9 @@
 def hello()：
-  print('喂'）
-  
-def bye():
-  print(再見）
+    print('喂'）
 
-print（hello())
+
+def bye():
+    print('再見'）
+
+
+print(hello())
